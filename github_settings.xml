@@ -1,5 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="LOGIN" value="vovansold91@mail.ru" />
+    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
