@@ -4,3 +4,4 @@ y[0] += 10
 print(y, len(y), type(y))
 print(x, len(x), type(x))
 print("end of program")
+print("hell")
